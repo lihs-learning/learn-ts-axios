@@ -1,0 +1,12 @@
+{
+  "name": "learn-ts-axios",
+  "version": "0.0.0",
+  "description": "learn how to develop a axios using typescript",
+  "main": "index.js",
+  "author": "LiHS <lihsai0@gmail.com>",
+  "license": "GPL-3.0",
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "devDependencies": {}
+}
